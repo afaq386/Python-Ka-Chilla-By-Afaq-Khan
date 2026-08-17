@@ -1,6 +1,6 @@
 print("hello world")# this will print a string
 
-print("Aamar")
+print("Afaq")
 print("hello world")
 print(3+4)
 
