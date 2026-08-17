@@ -1,5 +1,5 @@
 #code 1
-print("Aamar")
+print("Afaq")
 
 #code 2
 name = input("what is your name?")
