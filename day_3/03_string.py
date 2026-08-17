@@ -1,9 +1,9 @@
 # print("hello world")
-# print('we are learning python with  dr Aamar')
-# print("we are learning with Aamar")
+# print('we are learning python with  dr Afaq')
+# print("we are learning with Afaq")
 # print('''
 #   i am afaq
-#   ma ungraduate student hn from hazara university
+#   i am ungraduate student hn from hazara university
 #   i am still young      
 #       ''')
 
